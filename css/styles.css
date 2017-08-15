@@ -1,0 +1,41 @@
+.border {
+  border: 2px solid black;
+}
+
+.body {
+  background-color: yellow;
+}
+
+.header {
+  background-color: blue;
+  height: 200px;
+}
+
+.nav {
+  background-color: green;
+}
+
+.content-color {
+  background-color: red;
+  height: 300px;
+}
+
+.aside {
+  background-color: lightblue;
+  height: 300px;
+}
+
+.promo {
+  background-color: yellow;
+  height: 200px;
+}
+
+.footer {
+  color: white;
+  background-color: black;
+}
+
+.bottom {
+  visibility: hidden;
+}
+}
